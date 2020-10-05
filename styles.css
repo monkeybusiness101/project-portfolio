@@ -1,0 +1,114 @@
+body {
+top: 0px;
+left: 0px;
+width: 100%;
+height: 7310px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.header {
+background-image: url("gunnar-ridderstrom-9p8ouw3C8oo-unsplash.jpg");
+top: -313.44219970703125px;
+left: -15.424468994140625px;
+width: 100%;
+height: 500px;
+opacity: 1;
+}
+
+.sectionTop {
+    top: 661px;
+left: 0px;
+width: 100%;
+height: 150px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.sectionTopText {
+    top: 785px;
+left: 416px;
+width: 100%;
+height: 192px;
+text-align: left;
+font: normal normal normal 30px/50px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.sectionTech {
+    top: 1371px;
+left: 416px;
+width: 100%;
+height: 150px;
+text-align: center;
+font: normal normal normal 30px/50px Montserrat;
+letter-spacing: 0px;
+opacity: 1;
+}
+
+.sectionFeatured {
+top: 1642px;
+left: 0px;
+width: 100%;
+height: 150px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.sectionInspirational {
+    top: 1371px;
+left: 416px;
+width: 100%;
+height: 150px;
+text-align: center;
+font: normal normal normal 30px/50px Montserrat;
+letter-spacing: 0px;
+opacity: 1;
+}
+
+.sectionSkills {
+    top: 1642px;
+    left: 0px;
+    width: 100%;
+    height: 150px;
+    background: #F4F4F4 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+
+    .sectionMoreInformation {
+        top: 1642px;
+        left: 0px;
+        width: 100%;
+        height: 150px;
+        background: #F4F4F4 0% 0% no-repeat padding-box;
+        opacity: 1;
+        }
+
+.sectionContact {
+   background:#072BCE;
+   height: 150px;
+}
+
+.boxRed {
+    top: 1771px;
+left: 672px;
+width: 575px;
+height: 70px;
+background: #FA382F 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.titleText {
+    top: 1775px;
+left: 685px;
+width: 562px;
+height: 58px;
+text-align: left;
+font: normal normal bold 48px/58px Montserrat;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
