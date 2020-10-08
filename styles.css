@@ -247,17 +247,30 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
    height: 150px;
 }
 
+/* OTHER PROJECTS */
+
+.otherProjects {
+    background: #F4F4F4;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    flex-direction: column;
+}
+
+.other-projects-container {
+    width: 60%;
+}
 
 /* REUSABLE COMPONENTS */
 
 .boxRed {
     background: #FA382F 0% 0% no-repeat padding-box;
+    padding: 0 20px;
 }
 
 .boxTransparent {
-    color:  #FA382F;
-    text-align: center;
-    font: normal normal bold 30px Montserrat;
+    padding: 0 20px
 }
 
 .titleText {
@@ -265,6 +278,14 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
     text-align: center;
     font: normal normal bold 30px Montserrat;
     color: #FFFFFF;
+    
+}
+
+.titleText-Red {
+    
+    text-align: center;
+    font: normal normal bold 30px Montserrat;
+    color: #FA382F;
     
 }
 
