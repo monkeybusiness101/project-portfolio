@@ -25,27 +25,29 @@ body {
 }
 
 .social-media-logos-top {
-    height: 50%;
+    height: 45%;
     padding-top: 50px;
     padding-left: 300px;
 }
-
 
 .headshot {
     border-radius: 50%;
     object-fit: cover;
     height: 250px;
     width: 250px;
+    margin-left: 100px;
 }
 
 .portfolio-name {
     color: #FFFFFF;
+    font-size: 22px;
+    margin-left: 50px;
 }
 
 .job-titles {
     color: #FFFFFF;
-
-
+    font-size: 46px;
+    margin-left: 50px;
 }
 
 /* TOP SECTION*/
@@ -78,7 +80,6 @@ justify-content: center;
 align-items: center;
 width: 100%;
 background: #F4F4F4 0% 0% no-repeat padding-box;
-opacity: 1;
 }
 
 .project-container {
@@ -87,6 +88,8 @@ opacity: 1;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    margin-right: 80px;
+    margin-left: 80px;
 }
 
 .project-box {
@@ -166,20 +169,29 @@ opacity: 1;
     color: #FF0202;
 }
 
-
-
-
-
 .other-project {
     width: 60%;
     height: 100px;
     margin-bottom: 5px;
 }
 
+/* SECTION TOP INTRODUCTION ABOUT MYSELF */
 
 
+.sectionTop {
+ background-color: #F4F4F4;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 400px;
+}
 
-
+.sectionTopText {
+    
+    height: 200px;
+    width: 800px;
+    font-size: 24px;
+}
 
 
 .sectionInspirational {
