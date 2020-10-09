@@ -63,6 +63,7 @@ body {
    .sectionTopText {
        font-size: 24px;
        font: normal normal normal 30px/50px Montserrat;
+       width: 800px;
    }
 
 
@@ -278,4 +279,66 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
     padding-top: 40px;
     margin-bottom: 40px;  
     padding-bottom: 40px;
+}
+
+/* Mobile view */
+
+@media only screen and (max-width: 600px) {
+
+.header-left-section {
+    width: 50%;
+}
+
+.header-right-section {
+    width: 50%;
+}
+
+.headshot {
+    display: none;
+}
+
+.social-media-logos-top {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+    .job-titles {
+        font-size: 20px;
+    }
+}
+
+.sectionTopText {
+    font-size: 20px;
+    width: 100%;
+}
+
+.sectionTechText {
+    font-size: 20px;
+    width: 100%;
+}
+
+.project-container {
+    width: 100%;
+}
+
+.project-box-text-container {
+    width: 100%;
+    margin: 0px;
+}
+
+.project-box-image-weather {
+    width: 100%;
+    background-size: contain;
+}
+
+.project-box-image-text-noimage {
+    font-size: 20px;
+}
+
+.project-box-image-text {
+    font-size: 20px;
+}
+
+.portfolio-name {
+    font-size: 14px;
 }
