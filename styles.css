@@ -305,7 +305,7 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
     .job-titles {
         font-size: 20px;
     }
-}
+
 
 .sectionTopText {
     font-size: 20px;
@@ -326,6 +326,11 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
     margin: 0px;
 }
 
+.box-tech {
+    font-size: 10px;
+    height: 20px;
+}
+
 .project-box-image-weather {
     width: 100%;
     background-size: contain;
@@ -341,4 +346,5 @@ background: #F4F4F4 0% 0% no-repeat padding-box;
 
 .portfolio-name {
     font-size: 14px;
+}
 }
