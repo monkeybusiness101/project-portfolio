@@ -243,6 +243,16 @@ body {
     height: 400px;
 }
 
+.contact-title {
+    font-size: 46px;
+    color: white;
+}
+
+.contact {
+    font-size: 22px;
+    color: white;
+}
+
 /* REUSABLE COMPONENTS */
 
 .boxRed {
