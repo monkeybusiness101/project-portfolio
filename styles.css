@@ -187,8 +187,6 @@ body {
 
 /* SECTION TECH */
 
-
-
 .sectionTech {
     display: flex;
     height: 400px;
@@ -207,7 +205,6 @@ body {
 }
 
 /* SECTION INSPIRATION */
-
 
 .sectionInspirational {
     width: 100%;
