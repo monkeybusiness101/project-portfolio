@@ -230,6 +230,12 @@ body {
 
 /* SECTION CONTACT */
 
+.section-bottom-text {
+    font-size: 24px;
+    font: normal normal normal 30px/50px Montserrat;
+    width: 800px;
+}
+
 .sectionContact {
     background:#072BCE;
     color: #F4F4F4;  
